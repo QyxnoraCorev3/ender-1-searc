@@ -1,0 +1,6 @@
+{
+  "name": "Sender Search",
+  "description": "Search apps, sender IDs, aliases and messages",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
